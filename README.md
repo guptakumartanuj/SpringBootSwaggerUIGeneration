@@ -5,3 +5,11 @@
 #Note* @Controller annotation is used in RootController to redirect the Swagger UI and @RESTController annotation is used in TestController to get listing of all the APIs through Swagger UI.
 
 
+## Copyright 
+
+Copyright (c) 2018 Tanuj Gupta
+
+---
+
+> GitHub [@guptakumartanuj](https://github.com/guptakumartanuj) &nbsp;&middot;&nbsp;
+> [Blog](https://guptakumartanuj.wordpress.com/) &nbsp;&middot;&nbsp;
